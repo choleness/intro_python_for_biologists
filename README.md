@@ -1,7 +1,6 @@
 # intro_python_course
 
 ## Day 1
-[watch these lectures before day 1]()
 
 [day 1 notebook](day_1.ipynb) 
 
@@ -9,7 +8,6 @@
 
 
 ## Day 2
-[watch these lectures before day 2]()
 
 [day 2 notebook](day_2.ipynb) 
 
@@ -17,14 +15,12 @@
 
 
 ## Day 3
-[watch these lectures before day 3]()
 
 [day 3 notebook](day_3.ipynb) 
 
 [day 3 notebook with solutions](day_3_solutions.ipynb)
 
 ## Day 4
-[watch these lectures before day 4]()
 
 [day 4 notebook](day_4.ipynb) 
 
