@@ -28,7 +28,6 @@
 
 
 ## Day 5
-[watch these lectures before day 5]()
 
 [day 5 notebook](day_5.ipynb) 
 
